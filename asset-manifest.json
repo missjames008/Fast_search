@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Fast_search/static/css/main.bd621a36.chunk.css",
+    "main.js": "/Fast_search/static/js/main.bac171ae.chunk.js",
+    "main.js.map": "/Fast_search/static/js/main.bac171ae.chunk.js.map",
+    "runtime-main.js": "/Fast_search/static/js/runtime-main.e0ab2186.js",
+    "runtime-main.js.map": "/Fast_search/static/js/runtime-main.e0ab2186.js.map",
+    "static/js/2.2e34a01c.chunk.js": "/Fast_search/static/js/2.2e34a01c.chunk.js",
+    "static/js/2.2e34a01c.chunk.js.map": "/Fast_search/static/js/2.2e34a01c.chunk.js.map",
+    "index.html": "/Fast_search/index.html",
+    "precache-manifest.ace31b0c22c74ed5aacdc16e5c6cb7a9.js": "/Fast_search/precache-manifest.ace31b0c22c74ed5aacdc16e5c6cb7a9.js",
+    "service-worker.js": "/Fast_search/service-worker.js",
+    "static/css/main.bd621a36.chunk.css.map": "/Fast_search/static/css/main.bd621a36.chunk.css.map",
+    "static/js/2.2e34a01c.chunk.js.LICENSE.txt": "/Fast_search/static/js/2.2e34a01c.chunk.js.LICENSE.txt",
+    "static/media/fast_logo.svg": "/Fast_search/static/media/fast_logo.7750b98e.svg",
+    "static/media/question_mark.png": "/Fast_search/static/media/question_mark.06a523d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0ab2186.js",
+    "static/js/2.2e34a01c.chunk.js",
+    "static/css/main.bd621a36.chunk.css",
+    "static/js/main.bac171ae.chunk.js"
+  ]
+}
